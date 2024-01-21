@@ -5,5 +5,5 @@ function initLogin() {
      return;
   }
 
-  alert(1);
+  alert('Login');
 }
