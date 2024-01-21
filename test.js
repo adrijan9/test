@@ -7,3 +7,5 @@ function initLogin() {
 
   alert('Login');
 }
+
+initLogin();
