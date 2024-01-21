@@ -1,5 +1,9 @@
-function extra() {
+function initLogin() {
+  const path = window.location.pathname;
+
+  if(path !== 'login) {
+     return;
+  }
+
   alert(1);
 }
-
-extra();
