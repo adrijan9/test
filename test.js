@@ -1,1 +1,5 @@
-alert(1);
+function extra() {
+  alert(1);
+}
+
+extra();
