@@ -1,7 +1,7 @@
 function initLogin() {
   const path = window.location.pathname;
 
-  if(path !== 'login) {
+  if(path !== 'login') {
      return;
   }
 
